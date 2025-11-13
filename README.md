@@ -1,16 +1,17 @@
-## Hi there 👋
+# Keerthana Murugesan – .NET/C# Integration Developer
+Microsoft PL-300 | Blue Prism | 10+ years Azure/C#
 
-<!--
-**Keer0205/Keer0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**APPLYING: .NET/C# Integration Developer – up to £60k FTC**
+**Tier 2 sponsorship REQUIRED** – SOC 2136/2137
+London remote + 1–2 days office | Immediate start
 
-Here are some ideas to get you started:
+**LIVE AZURE PROJECTS – BUILT 13 NOV 2025**
+- [Finance API – C# Function](https://github.com/Keer0205/Finance-Integration-Demo)  
+- [50k/hour ETL](https://github.com/Keer0205/RealTime-ETL-CSharp)  
+- [NHS Logic Apps](https://github.com/Keer0205/NHS-LogicApps)  
+- [CI/CD Pipelines](https://github.com/Keer0205/azure-pipelines)  
+- [Payment API – Polly](https://github.com/Keer0205/Payment-API-Connector)  
+- [EHR Function](https://github.com/Keer0205/EHR-Functions)  
+- [SFTP Pipeline – Live](https://github.com/Keer0205/SFTP-Pipeline)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** C# .NET 8 | Azure Logic Apps | Function Apps | SQL Server | DevOps
