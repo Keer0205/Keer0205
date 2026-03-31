@@ -1,17 +1,82 @@
-# Keerthana Murugesan – .NET/C# Integration Developer
-Microsoft PL-300 | Blue Prism | 10+ years Azure/C#
+# Hi, I'm Keerthana Murugesan 👋
 
-**APPLYING: .NET/C# Integration Developer – up to £60k FTC**
-**Tier 2 sponsorship REQUIRED** – SOC 2136/2137
-London remote + 1–2 days office | Immediate start
+## Data & Automation Developer | Power BI | Python | Streamlit | Healthcare AI | RAG Apps
 
-**LIVE AZURE PROJECTS – BUILT 13 NOV 2025**
-- [Finance API – C# Function](https://github.com/Keer0205/Finance-Integration-Demo)  
-- [50k/hour ETL](https://github.com/Keer0205/RealTime-ETL-CSharp)  
-- [NHS Logic Apps](https://github.com/Keer0205/NHS-LogicApps)  
-- [CI/CD Pipelines](https://github.com/Keer0205/azure-pipelines)  
-- [Payment API – Polly](https://github.com/Keer0205/Payment-API-Connector)  
-- [EHR Function](https://github.com/Keer0205/EHR-Functions)  
-- [SFTP Pipeline – Live](https://github.com/Keer0205/SFTP-Pipeline)
+I build practical analytics, automation, and AI solutions that solve real business problems. My work focuses on healthcare workflows, reporting, automation, and document-based AI applications.
 
-**Tech:** C# .NET 8 | Azure Logic Apps | Function Apps | SQL Server | DevOps
+---
+
+## About Me
+
+- Power BI developer with strong interest in business intelligence, analytics, and automation
+- Experienced in Python, SQL, Streamlit, and workflow automation
+- Building healthcare-focused AI projects, RAG apps, and operations tools
+- Interested in Microsoft Fabric, Power Platform, and practical enterprise AI use cases
+
+---
+
+## Featured Projects
+
+### ClinicOps Copilot
+A Streamlit + OpenAI RAG application that lets clinic teams upload internal PDFs such as SOPs, consent forms, aftercare guides, and pricing documents, then ask questions and receive citation-backed answers.
+
+**Tech Stack:** Python, Streamlit, OpenAI API, PDF Processing, Vector Search, RAG
+
+---
+
+### Fabric Data Platform Demo
+A demo project showing modern data platform concepts using reporting, pipelines, and analytics workflows.
+
+**Tech Stack:** Microsoft Fabric, Data Pipelines, Power BI, Analytics Engineering
+
+---
+
+### NHS Logic Apps
+Automation workflows and integration-based solutions designed around healthcare and operational process scenarios.
+
+**Tech Stack:** Logic Apps, Automation, APIs, Workflow Integration
+
+---
+
+### Mediclaim AI
+An AI-focused concept/project aimed at simplifying healthcare-related operational or claims workflows.
+
+**Tech Stack:** Python, AI Workflow Design, Automation
+
+---
+
+## Tech Stack
+
+- Python
+- SQL
+- Power BI
+- Streamlit
+- Microsoft Fabric
+- Azure
+- Logic Apps
+- Power Automate
+- Git/GitHub
+
+---
+
+## Current Focus
+
+- Building portfolio-quality healthcare AI and automation projects
+- Improving GitHub project documentation and demos
+- Creating practical analytics and RAG applications with real-world use cases
+
+---
+
+## GitHub Goals
+
+I’m actively improving this profile by:
+- polishing project READMEs
+- adding screenshots and demos
+- showcasing practical end-to-end solutions
+- building strong analytics and automation case studies
+
+---
+
+## Connect
+
+- GitHub: [Keer0205](https://github.com/Keer0205)
