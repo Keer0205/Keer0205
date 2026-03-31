@@ -12,7 +12,6 @@ I build practical analytics, automation, and AI solutions that solve real busine
 - Experienced in Python, SQL, Streamlit, and workflow automation
 - Building healthcare-focused AI projects, RAG apps, and operations tools
 - Interested in Microsoft Fabric, Power Platform, and practical enterprise AI use cases
-
 ---
 
 ## Featured Projects
