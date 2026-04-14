@@ -2,7 +2,7 @@
 
 ## Data & Automation Developer | Power BI | Python | Streamlit | Healthcare AI
 
-I build practical analytics, automation, and AI solutions that solve real business problems. My portfolio focuses on healthcare workflows, reporting, automation, and document-based AI applications.
+Clinical data specialist with MSc Immunology & Microbiology, 5 yrs ICD-10/CPT/HCPCS coding, and 7 yrs data engineering. Building population-level healthcare analytics on real NHS data. Python · SQL · PostgreSQL · dbt · Streamlit · Power BI
 
 ---
 
